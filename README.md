@@ -53,8 +53,3 @@ This application manages admin operations, college details, placements, users, c
 3. All API endpoints are tested using **Postman** for reliability and correctness.
 
 
-<a href="https://github.com/username3">
-  <img src="https://img.shields.io/badge/Contributor-username3-purple?style=flat-square&logo=github" />
-</a>
-
-
