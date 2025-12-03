@@ -52,4 +52,3 @@ This application manages admin operations, college details, placements, users, c
 2. REST controllers handle CRUD operations for all modules (Admin, Student, College, Certificate, Placement, User).  
 3. All API endpoints are tested using **Postman** for reliability and correctness.
 
-
